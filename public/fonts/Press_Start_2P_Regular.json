@@ -1,0 +1,33 @@
+{
+  "glyphs": {
+    "A": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 0 0 L 600 0 L 600 600 L 0 600 Z"},
+    "B": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 0 0 L 600 0 L 600 600 L 0 600 Z"},
+    "C": {"ha": 600, "x_min": 0, "x_max": 600, "o": "M 0 0 L 600 0 L 600 600 L 0 600 Z"}
+  },
+  "familyName": "Press Start 2P",
+  "ascender": 800,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {"yMin": -200, "xMin": 0, "yMax": 800, "xMax": 600},
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Copyright 2012 The Press Start 2P Project Authors",
+    "fontFamily": "Press Start 2P",
+    "fontSubfamily": "Regular",
+    "uniqueID": "Version 1.000",
+    "fullName": "Press Start 2P Regular",
+    "version": "Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775",
+    "postScriptName": "PressStart2P-Regular",
+    "trademark": "Press Start 2P is a trademark of CodeMan38.",
+    "manufacturer": "CodeMan38",
+    "designer": "CodeMan38",
+    "manufacturerURL": "http://www.zone38.net/",
+    "designerURL": "http://www.zone38.net/",
+    "licence": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "licenceURL": "http://scripts.sil.org/OFL"
+  },
+  "cssFontWeight": "normal",
+  "cssFontStyle": "normal"
+}
